@@ -24,5 +24,4 @@
 ![img](../.data/015.png)
 
 8. Configure the application to work according to your needs, i.e. activate recording on startup of the system
-
 ![img](../.data/016.png)
