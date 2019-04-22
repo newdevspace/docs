@@ -2,7 +2,6 @@
 
 **Important**: the **skill** of searching data is **the most significant** of all in the computer science sphere. The amount of searching **time** and its **effectiveness** appears **crucial** for your **success** in the industry. Continuous **improvement** of it becomes a **major advantage** in front of all other specialists in your sphere. **Efficient exploration** of internet data offers the **key** to handle **issues** of **any severity** level.
 
-
 1. **Work on** the **key phrase** to be searched.
 
 - **English** translated key phrases work the best.
@@ -12,7 +11,6 @@
 - **Check** the **meaning** of terms (especially if they are technical).
 - Try to use **fewer words** the key phrase.
 
-
 2. **Enhance** your **search**.
 
 - Instead of additional words use **special symbols ( ~ , “ ” , - , * , ...)** to [increase search](https://www.digitalthirdcoast.com/blog/5-easy-symbols-google-work) logic.
@@ -20,7 +18,6 @@
 - Using [image search](https://images.google.com/) with the **term’s illustrations** could be helpful.  
 - Use **Page search** (ctrl + f) as a faster way to check the presence of the **needle word/s** on a page.    
 - Continuously learn **new ways** to search more efficiently, do not hesitate to use **tips and tricks**.
-
 
 3. Select **data sources** wisely.
 
