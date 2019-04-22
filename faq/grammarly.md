@@ -1,1 +1,1 @@
-[img](.data/001.png)
+[img](../.data/001.png)
