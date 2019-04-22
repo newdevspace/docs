@@ -1,17 +1,17 @@
 # docs
 process documentation in one repo
 
-##General information:
+## General information:
 
-[Study environment](general/internet_tips_for_data_search.md)
+[Study environment](general/study_environment.md)
 
-[Meetings](general/trello_using_for_memorizing.md)
+[Meetings](general/meetings.md)
 
-[MANIFESTO](general/ubuntu_custom_terminal_commands.md)
+[MANIFESTO](general/manifesto.md)
 
-[Useful links](general/ubuntu_keyboard_shortcuts.md)
+[Useful links](general/useful_links.md)
 
-##FAQ:
+## FAQ:
 
 [Grammarly. How to use](faq/grammarly.md)
 
@@ -21,7 +21,7 @@ process documentation in one repo
 
 [Shutter. How to use](faq/shutter.md)
 
-##Tips:
+## Tips:
 
 [Trello. Using for memorizing](tips/internet_tips_for_data_search.md)
 
