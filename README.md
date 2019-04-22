@@ -23,7 +23,7 @@ process documentation in one repo
 
 ## Tips:
 
-[Trello. Using for memorizing](tips/internet_tips_for_data_search.md)
+![Trello. Using for memorizing](tips/internet_tips_for_data_search.md)
 
 [Ubuntu. Custom terminal commands](tips/trello_using_for_memorizing.md)
 
