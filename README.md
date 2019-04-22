@@ -22,11 +22,11 @@
 
 ### Tips:
 
-[Trello. Using for memorizing](tips/internet_tips_for_data_search.md)
+[Trello. Using for memorizing](tips/trello_using_for_memorizing.md)
 
-[Ubuntu. Custom terminal commands](tips/trello_using_for_memorizing.md)
+[Ubuntu. Custom terminal commands](tips/ubuntu_custom_terminal_commands.md)
 
-[Ubuntu. Keyboard shortcuts](tips/ubuntu_custom_terminal_commands.md)
+[Ubuntu. Keyboard shortcuts](tips/ubuntu_keyboard_shortcuts.md)
 
-[Internet. Tips for data search](tips/ubuntu_keyboard_shortcuts.md)
+[Internet. Tips for data search](tips/internet_tips_for_data_search.md)
 
