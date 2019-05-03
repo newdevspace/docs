@@ -15,20 +15,6 @@
 (every participant should write at least 1 card for each of three questions, the most important ones (except 'good' cards) should be taken in work)
 5. How much **time** my next *iteration* *activities* will last?
 
-
-### WORK meeting.
-**Combines**: Grooming/Refining 
-
-**Specs**: by request, only relevant to the specific *process* participants
-
-**Questions**:
-
-1. Are my relevant *issues* **planned/discussed** correctly?
-2. Are my relevant *issues* **broken-down** in smaller ones properly?
-3. Are there any **problems** with *data* apprehension or issues implementation?
-4. Are my ***'Done' issues*** correspond to the state?
-
-
 ### DEMO meeting 
 **Combines**: demonstration, interview, examination 
 
@@ -41,6 +27,17 @@
 3. What **topics** I am ready to discuss on the virtual interview?
 4. How do I **evaluate my knowledge** for the exact same moment?
 
+### WORK meeting.
+**Combines**: Grooming/Refining 
+
+**Specs**: by request, only relevant to the specific *process* participants
+
+**Questions**:
+
+1. Are my relevant *issues* **planned/discussed** correctly?
+2. Are my relevant *issues* **broken-down** in smaller ones properly?
+3. Are there any **problems** with *data* apprehension or issues implementation?
+4. Are my ***'Done' issues*** correspond to the state?
 
 ### Glossary:
 *Mentor* – the sphere professional, who could be a judge for student knowledge.
