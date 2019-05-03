@@ -27,6 +27,7 @@
 
 #### Learning tools:
 - Repetico - [url](https://www.repetico.com/)
+- Quizlet - [url](https://quizlet.com/)
 
 #### Screenshot tool:
 - Shutter - [howTo](https://vitux.com/how-to-install-and-use-shutter-screenshot-tool-in-ubuntu-18-04-lts/)
