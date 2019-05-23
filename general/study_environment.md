@@ -20,6 +20,7 @@
 - Hangouts ([newdev](https://hangouts.google.com/group/jxZxW3MI5abloecg2))
 
 #### Test documentation:
+- GoogleSheets ([GoogleDrive](https://bit.ly/2VHkH4x))
 - TestRail ([newdev](https://newdev.testrail.io/))
 
 #### Time tracker:
