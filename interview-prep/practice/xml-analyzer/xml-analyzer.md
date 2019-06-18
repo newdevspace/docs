@@ -45,7 +45,7 @@ Tips & Hints
 It is permitted to use CSS selectors, or XPath or any other standard for navigation in XML/HTML.
 It is permitted to use libraries to search elements by a standard locator.
 We've prepared some code snippets, to save your time for XML reader configuration. Please follow by links:
-C# snippets repository
-Java snippets repository
-Node.js snippets repository
-Scala snippets repository
+[C# snippets repository](https://bitbucket.org/agileengine/ae-backend-xml-csharp-snippets/src)
+[Java snippets repository](https://bitbucket.org/agileengine/ae-backend-xml-java-snippets/src)
+[Node.js snippets repository](https://bitbucket.org/agileengine/ae-backend-xml-nodejs-snippets/src)
+[Scala snippets repository](https://bitbucket.org/agileengine/ae-backend-xml-scala-snippets/src)
